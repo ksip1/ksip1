@@ -1,4 +1,4 @@
-- 👋 Hi, my name is @ksip1
+- 👋 Hi, my name is SIP Kyllian.
 - 👀 I am interested in
 - 🌱 I am currently learning computer science.
 - 💞️ I am looking to collaborate on...
