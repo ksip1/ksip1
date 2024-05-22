@@ -3,7 +3,6 @@
 - 🌱 I am currently learning computer science.
 - 💞️ I am looking to collaborate on 
 - 📫 How to contact me : sipkyllian2005gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 
 
 <!---
