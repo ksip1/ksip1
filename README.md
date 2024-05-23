@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/c612a127919515.5636cc305faee.gif">
 
 
-- 🌱 I’m currently learning **learning computer science.**
+- 🌱 I’m currently learning ** computer science.**
 
 - 📫 How to reach me **sipkyllian2005@gmail.com**
 
