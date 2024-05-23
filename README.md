@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SIP Kyllian</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/ksip1/ksip1/assets/159045849/fbeed885-52e2-4fa5-8a5b-7f72160d1f4e">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🌱 I’m currently learning **learning computer science.**
