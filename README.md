@@ -3,7 +3,7 @@
 - 🌱 I am currently learning computer science.
 - 💞️ I am looking to collaborate on projects related to software development and coding challenges.
 - 📫 How to contact me: sipkyllian2005@gmail.com
-- ⚡ Fun fact: I once wrote a program that generated random haikus from user input!
+- ⚡ Fun fact: Sometimes after an intense workout, my legs become so weak that I find myself running down the stairs like a penguin!
 
 
 <!---
