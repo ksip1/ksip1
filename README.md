@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <h1 align="center">Hi 👋, I'm SIP Kyllian</h1>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/c612a127919515.5636cc305faee.gif">
+<img align="right" alt="Coding" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/c612a127919515.5636cc305faee.gif">
 
 
 - 🌱 I’m currently learning **computer science.**
