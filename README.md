@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **Sometimes after an intense workout, my legs become so weak that I find myself running down the stairs like a penguin!**
 
+- Languages: French, English
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
