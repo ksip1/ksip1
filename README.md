@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SIP Kyllian</h1>
 <h3 align="center">A second year student in BUT Computer Science</h3>
+![image_processing20210828-26479-1drrb5p](https://github.com/user-attachments/assets/fe694eb5-6716-4bd4-a5e7-c9dbc034547d)
 
 - 🌱 I’m currently learning **computer science**
 
